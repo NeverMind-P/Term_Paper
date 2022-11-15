@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://alex.id/
+
+# Sitemaps
+Sitemap: https://alex.id/sitemap.xml
